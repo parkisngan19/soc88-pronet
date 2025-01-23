@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Soc88 – Sân Chơi Game Hấp Dẫn, An Toàn và Công Bằng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Soc88 <https://soc88-pro.net/>`_ là một nền tảng giải trí trực tuyến nổi bật trong ngành đổi thưởng và game online, mang đến cho người chơi những trải nghiệm hấp dẫn và đầy thử thách. Được xây dựng với mục tiêu tạo ra một môi trường an toàn và công bằng, Soc88 đã không ngừng phát triển và cải tiến công nghệ để đáp ứng nhu cầu ngày càng cao của người chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Các dịch vụ nổi bật của Soc88 bao gồm thể thao với hàng trăm sự kiện quốc tế, cùng các trò chơi casino như baccarat, blackjack, và máy đánh bạc hiện đại. Với giao diện thân thiện, tốc độ truy cập nhanh và tối ưu hóa trên thiết bị di động, người chơi có thể dễ dàng thưởng thức trò chơi yêu thích mọi lúc, mọi nơi. 
 
-.. note::
+Bên cạnh đó, Soc88 cũng chú trọng đến trải nghiệm người dùng và đảm bảo sự hỗ trợ khách hàng nhanh chóng và hiệu quả. An toàn và bảo mật luôn được đặt lên hàng đầu, với các thông tin cá nhân và giao dịch được mã hóa và bảo vệ tốt. Soc88 thực sự là một sân chơi lý tưởng cho những ai yêu thích chơi game đổi thưởng và game online.
 
-   This project is under active development.
+Thông tin lie
 
-Contents
---------
+Địa chỉ: 15D Xuyên Á, Trung Mỹ Tây, Quận 12, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0702110208. 
 
-   usage
-   api
+Email: info@soc88-pro.net. 
+
+Website: https://soc88-pro.net/ 
+
+#soc88 #trangchusoc88 #dangkysoc88 #dangnhapsoc88 #linksoc88
